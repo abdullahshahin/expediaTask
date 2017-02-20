@@ -1,0 +1,6 @@
+{
+  "name": "expediaTask",
+  "description": "A task for Expedia written by Abdullah Shahin",
+  "image": "heroku/java",
+  "addons": [  ]
+}
